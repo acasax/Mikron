@@ -26,6 +26,9 @@ h1, h2, h3, h4, h5, h6, .font-primary {
   font-family: "Raleway", sans-serif;
 }
 
+.fs-25 {
+  font-size: 30px;
+}
 
 /*--------------------------------------------------------------
 # Back to top button
@@ -515,7 +518,7 @@ section {
 }
 
 .section-title h2 {
-  font-size: 32px;
+  font-size: 45px;
   font-weight: 600;
   margin-bottom: 20px;
   padding-bottom: 0;
@@ -1047,6 +1050,7 @@ section {
     margin-bottom: 100px;
   }
 }
+
 
 /*--------------------------------------------------------------
 # Frequently Asked Questions

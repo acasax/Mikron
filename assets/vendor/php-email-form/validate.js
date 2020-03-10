@@ -95,25 +95,30 @@ jQuery(document).ready(function($) {
     var this_form = $(this);
     var action = $(this).attr('action');
 
-    if( ! action ) {
-      this_form.find('.loading').slideUp();
-      this_form.find('.error-message').slideDown().html('The form action property is not set!');
-      return false;
-    }
     
     this_form.find('.sent-message').slideUp();
     this_form.find('.error-message').slideUp();
     this_form.find('.loading').slideDown();
-    
+
+    const data = {
+      name: $('#name').val(),
+      email: $('#email').val(),
+      subject: $('#subject').val(),
+      message: $('#message').val(),
+      "g-recaptcha-response": $('textarea[id="g-recaptcha-response"]').val()
+    }
     $.ajax({
+      url: "app/ajax/send-email.php",
       type: "POST",
-      url: action,
-      data: str,
-      success: function(msg) {
-        if (msg == 'OK') {
+      data: data,
+      dataType: "JSON",
+      success: function(data) {
+        let msg = data.type
+        if (msg == 'message') {
           this_form.find('.loading').slideUp();
           this_form.find('.sent-message').slideDown();
           this_form.find("input:not(input[type=submit]), textarea").val('');
+          grecaptcha.reset();
         } else {
           this_form.find('.loading').slideUp();
           this_form.find('.error-message').slideDown().html(msg);
