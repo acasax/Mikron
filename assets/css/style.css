@@ -895,10 +895,14 @@ section {
   transition: 0.3s;
   position: relative;
   overflow: hidden;
+  height: 200px;
+  display: flex;
+  justify-content: center;
 }
 
 .portfolio .portfolio-wrap img {
   transition: 0.3s;
+  display: flex;
 }
 
 .portfolio .portfolio-wrap .portfolio-info {
@@ -1357,4 +1361,8 @@ section {
 
 #footer .credits a {
   color: #9eccf4;
+}
+
+.portfolio-wrap .img-fluid {
+  height: 100%;
 }
