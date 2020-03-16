@@ -2,81 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6776f70-b2c5-4f48-9b05-9cc219154a27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/centrifugalniprekidaci/elektrokovina.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/centrifugalniprekidaci/elprom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/centrifugalniprekidaci/sever.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/izvodnekutije/izvodnekutijemkip54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/VERTIKALNA PUMPA VCV 50,10,1 006.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/slideshow3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/razvodnekutije/razvodnekutijetipdin46294.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/13.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/14.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/15.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/19.1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/23.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/25.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/26.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/27.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/28.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/29.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/30.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/31.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/32.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/33.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/34.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/35.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/39.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/40.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/41.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/42.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/44.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/45.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/46.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/47.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/48.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/49.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/50.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/51.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/52.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/53.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/rezervnidelovi/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/NosačnožaKosilicezatravuSever.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/NosačnožakosilicezatravuMTD.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotora KončarRK90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraKončar.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraKončarRK100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraKončarRK112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraKončarRK80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/izvodnekutije/izvodnakutijamiip54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/izvodnekutije/izvodnakutijamiip65.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/portfolio/portfolio-9.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -150,7 +85,8 @@
       <workItem from="1584026076824" duration="1037000" />
       <workItem from="1584108756997" duration="9298000" />
       <workItem from="1584193409804" duration="11538000" />
-      <workItem from="1584282321847" duration="8205000" />
+      <workItem from="1584282321847" duration="8808000" />
+      <workItem from="1584369079743" duration="2754000" />
     </task>
     <servers />
   </component>
