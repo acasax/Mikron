@@ -2,38 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6776f70-b2c5-4f48-9b05-9cc219154a27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/Koncar.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/KosacicaSever.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/MTD.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/NosacMTD.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/NosacNozaKosiliceSEVER.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VENTILATORVESMASINE.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElktrokovina.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorMotoraKosaciceMTD.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorMotoraKosaciceSever.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorMotoraVesMasine.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorTIP100r.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorTIP132r.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorTIP52r.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorTIP63r.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorTIP71r.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorTIP80r.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorTIP90r.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/Ventilatori-motora.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatoriMotoraElektrokovina.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/izvodnekutije/Izvodna kutija em Tip IP 54.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/izvodnekutije/Izvodna kutija em Tip MK IP 65.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/Visestepene-horizontalne-pumpe-MA-str1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/razvodnekutije/Priljkucna-ploca-em-DIN-46294.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/razvodnekutije/Priljkucna-ploca-em-DP.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/razvodnekutije/prikljucnaplocadp.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr/about.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr/contact.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr/gallery.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gr/products.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -108,7 +83,7 @@
       <workItem from="1584193409804" duration="11538000" />
       <workItem from="1584282321847" duration="8808000" />
       <workItem from="1584369079743" duration="10179000" />
-      <workItem from="1584445180766" duration="10310000" />
+      <workItem from="1584445180766" duration="16242000" />
     </task>
     <servers />
   </component>
