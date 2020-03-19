@@ -2,15 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6776f70-b2c5-4f48-9b05-9cc219154a27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/galerija/36.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/galerija/37.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/galerija/38.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/galerija/39.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/product.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gr/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gr/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/contact.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gr/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gr/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -88,6 +95,14 @@
       <workItem from="1584445180766" duration="16301000" />
       <workItem from="1584556192685" duration="2014000" />
     </task>
+    <task id="LOCAL-00001" summary="release 4123131">
+      <created>1584645401736</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584645401736</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -107,6 +122,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="release 4123131" />
+    <option name="LAST_COMMIT_MESSAGE" value="release 4123131" />
   </component>
 </project>
