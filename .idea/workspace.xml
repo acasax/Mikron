@@ -3,21 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a6776f70-b2c5-4f48-9b05-9cc219154a27" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gr/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gr/contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gr/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/gallery.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gr/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/Logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Logo.jpg" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
