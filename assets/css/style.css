@@ -1366,3 +1366,12 @@ section {
 .portfolio-wrap .img-fluid {
   height: 100%;
 }
+
+@media screen and  (max-width:1023px) {
+
+
+  .mobile-nav .contact-info {
+    display: flex !important;
+    justify-content: start;
+  }
+}

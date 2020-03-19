@@ -34,7 +34,7 @@
 <body>
 
 <!-- ======= Top Bar ======= -->
-<section id="topbar" class="d-none d-lg-block">
+<section id="topbar" class="d-none d-sm-block d-lg-block">
     <div class="container clearfix">
         <div class="contact-info float-left">
             <i class="icofont-envelope"></i><a href="mailto:contact@example.com">mikrond@gmail.com</a>
@@ -58,14 +58,19 @@
         </div>
 
         <nav class="nav-menu float-right d-none d-lg-block">
-            <ul>
-                <li><a href="index.html">Početna</a></li>
-                <li class="active"><a href="about.html">O nama</a></li>
-                <li><a href="#services">Usluge</a></li>
-                <li><a href="product.html">Proizvodni program</a></li>
-                <li ><a href="gallery.html">Galerija</a></li>
-                <li ><a href="contact.html">Kontakt</a></li>
-            </ul>
+            <div class="d-none contact-info">
+                <a href="index.html" ><img src="assets/img/flags/serbia-flag.png" title="SRB"/> </a>
+                <a href="gr/index.html" ><img src="assets/img/flags/germany-flag.png" title="GER"/></a>
+                <a href="en/index.html" ><img src="assets/img/flags/united-kingdom-flag.png" title="ENG"/></a>
+            </div>
+                <ul>
+                    <li><a href="index.html">Početna</a></li>
+                    <li class="active"><a href="about.html">O nama</a></li>
+                    <li><a href="#services">Usluge</a></li>
+                    <li><a href="product.html">Proizvodni program</a></li>
+                    <li ><a href="gallery.html">Galerija</a></li>
+                    <li ><a href="contact.html">Kontakt</a></li>
+                </ul>
         </nav><!-- .nav-menu -->
 
     </div>
@@ -145,17 +150,18 @@
 <!-- End Frequently Asked Questions Section -->
     <!-- ======= Our Team Section ======= -->
     <section id="team" class="team">
-      <div class="container">
+      <div class="container pl-0">
 
         <div class="section-title">
           <h2>Naš tim</h2>
         </div>
-          <div class="text-center d-none d-md-block pb-4">
-              <img src="assets/img/about/about2.jpg"/>
+          <div class="text-center d-md-block p-4 w-100 h-100">
+              <img class="w-100 h-100" src="assets/img/about/about2.jpg"/>
           </div>
 
       </div>
-    </section><!-- End Our Team Section -->
+    </section>
+<!-- End Our Team Section -->
 
 
 </main><!-- End #main -->
