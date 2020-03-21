@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6776f70-b2c5-4f48-9b05-9cc219154a27" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/img/about/OSNIVAC.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/galerija/40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/galerija/41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/galerija/42.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/Logo.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/Logo.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gr/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gr/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,6 +89,8 @@
       <workItem from="1584369079743" duration="10179000" />
       <workItem from="1584445180766" duration="16301000" />
       <workItem from="1584556192685" duration="2014000" />
+      <workItem from="1584700525206" duration="276000" />
+      <workItem from="1584794347505" duration="2251000" />
     </task>
     <task id="LOCAL-00001" summary="release 4123131">
       <created>1584645401736</created>
