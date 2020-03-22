@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6776f70-b2c5-4f48-9b05-9cc219154a27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/about/osnivac.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/about/osnivacDobra.JPG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gr/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +81,9 @@
       <workItem from="1584445180766" duration="16301000" />
       <workItem from="1584556192685" duration="2014000" />
       <workItem from="1584700525206" duration="276000" />
-      <workItem from="1584794347505" duration="2809000" />
+      <workItem from="1584794347505" duration="3061000" />
+      <workItem from="1584900658764" duration="48000" />
+      <workItem from="1584901321273" duration="105000" />
     </task>
     <task id="LOCAL-00001" summary="release 4123131">
       <created>1584645401736</created>
