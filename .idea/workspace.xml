@@ -2,10 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6776f70-b2c5-4f48-9b05-9cc219154a27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/galerija/43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/galerija/44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/galerija/45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/galerija/46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/galerija/47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/galerija/48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/Plasticni ventilatori em Sever Subotica1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/Plasticni ventilatori em Sever Subotica2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/zk.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/Horizontalna-pumpa-MA-5-str1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/Horizontalna-pumpa-MA-5-str2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/Visestepene-horizontalne-pumpe-MA-str2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/Visestepene-vertikalne-pumpe-MA-str1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/Visestepene-vertikalne-pumpe-MA-str2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/horizontalnapumpama-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/horizontalnapumpama-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/ma-v.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/ma2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/ma5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/visestepenevertikalnepumpe.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/Visestepene-horizontalne-pumpe-MA-str1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/proizvodi/pumpezavodu/Visestepene-horizontalne-pumpe-MA-str1.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/en/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/product.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gallery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gr/gallery.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/gallery.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gr/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/products.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -85,7 +109,10 @@
       <workItem from="1584700525206" duration="276000" />
       <workItem from="1584794347505" duration="3061000" />
       <workItem from="1584900658764" duration="48000" />
-      <workItem from="1584901321273" duration="417000" />
+      <workItem from="1584901321273" duration="1103000" />
+      <workItem from="1584985084069" duration="1210000" />
+      <workItem from="1584998019223" duration="202000" />
+      <workItem from="1585059231413" duration="3543000" />
     </task>
     <task id="LOCAL-00001" summary="release 4123131">
       <created>1584645401736</created>
