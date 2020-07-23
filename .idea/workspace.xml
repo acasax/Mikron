@@ -2,44 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a6776f70-b2c5-4f48-9b05-9cc219154a27" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/10027.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/10028.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/10029.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/110029.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/111229.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/11229.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/13235.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/13238.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/13239.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/13240.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/16042.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/180.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/200.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/225.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraSever100.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraSever190fi24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraSever63fi11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraSever71.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraSever71fi14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraSever80fi18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraSever90fi22.5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraSever90fi22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraSever90fi24.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/img/slide/slideshow99.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VENTILATORVESMASINE.PNG" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VENTILATORVESMASINE.PNG" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraKončarRK80.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorElektromotoraKončarRK80.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorMotoraVesMasine.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorMotoraVesMasine.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorTIP52r.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorTIP52r.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorTIP63r.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorTIP63r.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorTIP71r.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/proizvodi/Ventilatori/VentilatorTIP71r.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gr/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gr/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/gr/products.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/product.html" beforeDir="false" afterPath="$PROJECT_DIR$/product.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -123,7 +86,8 @@
       <workItem from="1584985084069" duration="1210000" />
       <workItem from="1584998019223" duration="202000" />
       <workItem from="1585059231413" duration="3868000" />
-      <workItem from="1585419932687" duration="4265000" />
+      <workItem from="1585419932687" duration="4667000" />
+      <workItem from="1585678129566" duration="7000" />
     </task>
     <task id="LOCAL-00001" summary="release 4123131">
       <created>1584645401736</created>
