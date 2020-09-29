@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="a6776f70-b2c5-4f48-9b05-9cc219154a27" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,7 +34,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/vendor" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -88,6 +89,7 @@
       <workItem from="1585059231413" duration="3868000" />
       <workItem from="1585419932687" duration="4667000" />
       <workItem from="1585678129566" duration="7000" />
+      <workItem from="1601382977885" duration="564000" />
     </task>
     <task id="LOCAL-00001" summary="release 4123131">
       <created>1584645401736</created>
